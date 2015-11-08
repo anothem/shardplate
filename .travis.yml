@@ -6,5 +6,9 @@ android:
   - build-tools-23.0.1
   - android-23
 
+  #Additional libs from Android
+  - extra-google-m2repository
+  - extra-android-m2repository
+
 script:
 - ./gradlew clean build
