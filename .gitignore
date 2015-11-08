@@ -11,7 +11,6 @@ build/
 .gradle
 *.iml
 gradle
-gradlew*
 .idea
 
 # Other
