@@ -10,8 +10,6 @@ build/
 # Gradle / Android Studio
 .gradle
 *.iml
-gradle
-gradlew*
 .idea
 
 # Other
